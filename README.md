@@ -1,4 +1,4 @@
-# A Studential project
+# A Student project
 
 a Small project i made during my SV-College Full-Stack Course :)
 
